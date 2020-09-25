@@ -51,7 +51,7 @@ header{
 .search-btn{
     width:130px;
     background-color: #2d6cdf;
-    color:white;
+    color: white;
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;
     border: none;
@@ -87,7 +87,7 @@ header{
   padding-right: 2rem;
 }
 .listings .header .header-viewOptions .viewMore .arrow {
-  background: #2d6cdf;
+  background: blue;
   color: white;
   align-items: center;
   justify-content: center;
