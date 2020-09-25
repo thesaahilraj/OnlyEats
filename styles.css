@@ -87,7 +87,8 @@ header{
   padding-right: 2rem;
 }
 .listings .header .header-viewOptions .viewMore .arrow {
-  background: red;
+  background: #2d6cdf;
+  color: white;
   align-items: center;
   justify-content: center;
   opacity: 0.3;
