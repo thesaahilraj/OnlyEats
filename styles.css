@@ -94,6 +94,7 @@ header{
   opacity: 0.3;
   transition: all 0.2s ease-in-out;
   cursor: pointer;
+  
 }
 .listings .header .header-viewOptions .viewMore .arrow.darker, .listings .header .header-viewOptions .viewMore .arrow:hover {
   opacity: 1;
